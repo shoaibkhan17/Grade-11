@@ -1,0 +1,25 @@
+﻿1>------ Build started: Project: Quiz, Configuration: Debug Win32 ------
+1>  Quiz.cpp
+1>c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(21): warning C4459: declaration of 'question' hides global declaration
+1>  c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(19): note: see declaration of 'question'
+1>c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(21): warning C4459: declaration of 'answer_1' hides global declaration
+1>  c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(19): note: see declaration of 'answer_1'
+1>c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(21): warning C4459: declaration of 'answer_2' hides global declaration
+1>  c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(19): note: see declaration of 'answer_2'
+1>c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(21): warning C4459: declaration of 'option_1' hides global declaration
+1>  c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(19): note: see declaration of 'option_1'
+1>c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(21): warning C4459: declaration of 'option_2' hides global declaration
+1>  c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(19): note: see declaration of 'option_2'
+1>c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(21): warning C4459: declaration of 'option_3' hides global declaration
+1>  c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(19): note: see declaration of 'option_3'
+1>c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(21): warning C4459: declaration of 'option_4' hides global declaration
+1>  c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(19): note: see declaration of 'option_4'
+1>c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(21): warning C4459: declaration of 'option_5' hides global declaration
+1>  c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(19): note: see declaration of 'option_5'
+1>c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(21): warning C4459: declaration of 'option_6' hides global declaration
+1>  c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(19): note: see declaration of 'option_6'
+1>c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+1>c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(50): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+1>c:\visual studio 2015\projects\c++\quiz\quiz\quiz.cpp(45): warning C4715: 'genericQuestion': not all control paths return a value
+1>  Quiz.vcxproj -> C:\visual studio 2015\Projects\C++\Quiz\Debug\Quiz.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

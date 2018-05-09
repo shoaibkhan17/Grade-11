@@ -1,0 +1,21 @@
+﻿1>------ Build started: Project: Store, Configuration: Debug Win32 ------
+1>  Store.cpp
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(89): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(95): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(101): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(107): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(113): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(148): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(162): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(177): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(178): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(179): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(180): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(181): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(182): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(183): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(184): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(185): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>c:\visual studio 2013\projects\c++\store\store\store.cpp(188): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>  Store.vcxproj -> c:\visual studio 2013\Projects\C++\Store\Debug\Store.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

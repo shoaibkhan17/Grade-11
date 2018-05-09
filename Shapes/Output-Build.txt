@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: Shapes, Configuration: Debug Win32 ------
+1>  Shapes.cpp
+1>c:\users\shoaib\desktop\computer science\shapes\shapes.cpp(18): warning C4101: 'userSize_2' : unreferenced local variable
+1>c:\users\shoaib\desktop\computer science\shapes\shapes.cpp(18): warning C4101: 'userSize' : unreferenced local variable
+1>  Shapes.vcxproj -> C:\visual studio 2013\Projects\C++\Shapes\Debug\Shapes.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
