@@ -1,0 +1,12 @@
+﻿Build started 19/05/2015 17:54:14.
+     1>Project "C:\visual studio 2015\Projects\C++\Numbers\Numbers\Numbers.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+     1>TRACKER : error TRK0005: Failed to locate: "CL.exe". The system cannot find the file specified.
+         
+         
+     1>Done Building Project "C:\visual studio 2015\Projects\C++\Numbers\Numbers\Numbers.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.46

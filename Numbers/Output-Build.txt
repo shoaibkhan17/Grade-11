@@ -1,0 +1,6 @@
+﻿All packages are already installed and there is nothing to restore.
+NuGet package restore finished.
+1>------ Build started: Project: Numbers, Configuration: Debug Win32 ------
+1>  Source.cpp
+1>  Numbers.vcxproj -> C:\visual studio 2015\Projects\C++\Numbers\Debug\Numbers.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
